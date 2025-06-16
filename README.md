@@ -1,0 +1,2 @@
+# gitPrime
+learning git 
